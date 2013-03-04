@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="httpServer">
+    <output-path>$PROJECT_DIR$/out/artifacts/httpServer</output-path>
+    <root id="archive" name="httpServer.jar">
+      <element id="module-output" name="httpServer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/META-INF/apacheds-all-1.5.4.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/apacheds-all-1.5.4.jar" />
+    </root>
+  </artifact>
+</component>
